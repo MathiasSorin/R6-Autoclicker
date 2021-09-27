@@ -1,0 +1,45 @@
+#Made by Mathias Sorin.
+#If you want to support me even a 1$ tip is greatly appreciated, you can do so here: paypal.me/R6THFarmApp
+
+Youtube Tutorial Here: https://www.youtube.com/watch?v=gLsZSmeXc3o&feature=youtu.be
+
+How To Use It:
+
+I would advise to put your game in borderless mode to config the App it will make it easier !
+
+In the AFK_Farm_Dir folder you will find the application AFK_Farm_App double click on it.
+(you can right click it and create a shortcut to put on your desktop if you wish, you can also change the icon of your shortcut, doka_icon.ico is provided in the folder)
+
+Click on the ‘Config’ button on the App, it will give you the instructions.
+
+Follow the exact instructions (when the App says don’t click, don’t click).
+
+After that whenever you want to afk farm for the night close the game, open the program and press Start or !
+You can also go in T-hunt directly and on the bomb site selection screen press start on the App, the App will detect that the game is already on and start farming right away !
+
+
+#Start Button
+If the game is closed it will boot the game, go to T-hunt and start farming.
+If the game is open go to the bomb site select screen in the Tower T-hunt to make it work.
+If the game crashes the script will detect it, reboot the game and will continue to farm.
+
+
+#Stop Button
+It will stop the process from the Start button.
+
+
+#Config Button
+It will erase the preferences you had set up and will ask you to configure it again.
+Normally you should use this button only once, the first time you use the App.
+
+#△ Button
+Click it to put the App on the foreground it means that it will appear above all other windows, reclick it to deactivate this feature.
+If during the configuration part your clicks don't register deactivate this feature.
+
+#◯ Button
+Click on it to set a automatic periodic restart, enter the amount in seconds 1h = 3600s, 2h = 7200s, 3h = 10800s, 4h = 14400s, 5h = 18000s.
+This will every X time close the game, reboot the game, go back to farming. This feature acts as a failsafe in case sometimes the game brings you back to the menu.
+
+Enjoy !
+
+
